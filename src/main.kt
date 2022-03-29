@@ -21,7 +21,7 @@ fun speak(speech:String){
 
 }
     fun birthday(date:Int){
-        var date=21
+        var date=22
         date+=age
         println(date)
 
